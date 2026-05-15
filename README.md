@@ -1,6 +1,6 @@
 # Gestão de Membros
 
-Considerando as constrições de tempo do projeto, e minha propria agenda nesta semana que esteve inteiramente ocupada, optei por realizar o desafio na metodologia Vibecode. Busquei entender as tecnologia solicitadas para o projeto, além de usar algumas outras fora do escopo, como autenticação via Bearer Token visando segurança. Tendo em mente o objetivo do projeto, utilizei o Codex da OpenAi, designei precisamente o escopo do projeto e realizei com ajuda da IA. Teria desenvolvido o projeto or conta propria sem uso de IA, estudando as tecnologias solicitas, mas utilizei para atender a restrição de tempo, e minha propria agenda.
+Considerando as constrições de tempo do projeto, e minha propria agenda nesta semana que esteve inteiramente ocupada, optei por realizar o desafio na metodologia Vibecode. Busquei entender as tecnologia solicitadas para o projeto, além de usar algumas outras fora do escopo, como autenticação via Bearer Token visando segurança. Tendo em mente o objetivo do projeto, utilizei o Codex da OpenAi, designei precisamente o escopo do projeto e realizei com ajuda da IA. Teria desenvolvido o projeto por conta propria sem uso de IA, estudando as tecnologias solicitas, mas utilizei para atender a restrição de tempo, e minha propria agenda.
 Aplicação full stack para cadastro e listagem de membros, com validação de maioridade, CPF real, CPF único, alteração de status ativo/inativo, persistência em H2 em memória e comunicação protegida por Bearer Token.
 
 ## Tecnologias Utilizadas
