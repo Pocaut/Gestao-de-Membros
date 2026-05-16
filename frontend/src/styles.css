@@ -367,12 +367,16 @@ h2 {
 }
 
 .status-button.inactive {
-  background: #f1f5f9;
-  color: #475569;
+  background: #fef2f2;
+  color: #b91c1c;
 }
 
 .status-button:hover {
   box-shadow: 0 0 0 3px rgba(31, 95, 191, 0.14);
+}
+
+.status-button.inactive:hover {
+  box-shadow: 0 0 0 3px rgba(185, 28, 28, 0.16);
 }
 
 .table-wrap {
